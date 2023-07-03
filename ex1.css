@@ -135,6 +135,7 @@ transition: 0.3s ease;
 @media(max-width:818px){
   .header{
     flex-direction: column;
+    padding: 15px 30px 15px 18px;
   }
 .header .navigation{
   margin-bottom: 25px;
